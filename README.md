@@ -23,7 +23,7 @@ This repository hosts a curated collection of Leetcode Solutions designed to hel
 | ---- | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- | ---------- |
 | 1    | [Two Sum](https://leetcode.com/problems/3sum/)                                                                        | [JavaScript](./1.%20Two%20Sum/two-sum.js) | Easy       |
 | 15   | [3Sum](https://leetcode.com/problems/two-sum/)                                                                        | [JavaScript](./15.%203Sum/3-sum.js)       | Medium     |
-| 1662 | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | [JavaScript]()                            | Easy       |
+| 1662 | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | [JavaScript](./1662.%20Check%20If%20Two%20String%20Arrays%20are%20Equivalent/check-if-two-string-arrays-are-equivalent.js)                            | Easy       |
 
 ---
 
