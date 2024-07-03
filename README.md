@@ -18,10 +18,12 @@ This repository hosts a curated collection of Leetcode Solutions designed to hel
 ## 📚 LeetCode Algorithms List
 
 ##### [Problems 1100-1200](./1100-1200q/)
-| # | Title | Solution | Difficulty |
-|---| ----- | -------- | ---------- |
-|1|[Two Sum](https://leetcode.com/problems/3sum/)|[JavaScript](./15-3Sum/3Sum.js)|Easy|
-|15|[3Sum](https://leetcode.com/problems/two-sum/)|[JavaScript](./15-3Sum/3Sum.js)|Medium|
+
+| #    | Title                                                                                                                 | Solution                                  | Difficulty |
+| ---- | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- | ---------- |
+| 1    | [Two Sum](https://leetcode.com/problems/3sum/)                                                                        | [JavaScript](./1.%20Two%20Sum/two-sum.js) | Easy       |
+| 15   | [3Sum](https://leetcode.com/problems/two-sum/)                                                                        | [JavaScript](./15.%203Sum/3-sum.js)       | Medium     |
+| 1662 | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | [JavaScript]()                            | Easy       |
 
 ---
 
