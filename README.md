@@ -15,7 +15,7 @@ This repository hosts a curated collection of Leetcode Solutions designed to hel
 
 <!-- Projects Section -->
 
-## 📚 Projects List
+## 📚 LeetCode Algorithms List
 
 <!-- 1. [To Do List](./to_do_list) - To Do List.
 2. [Password Generator](./password_generator) - Password Generator. -->
